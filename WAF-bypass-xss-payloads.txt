@@ -1,0 +1,37 @@
+
+Domain 	User	Subdomain
+
+ ###main domain:ssbmultiservices.com
+	
+1.helloeverest.ssbmultiservices.com */	no vulnarability
+2.banglatravel.ssbmultiservices.com */#/  Vulnarability paoya gece (https://banglatravel.ssbmultiservices.com/.env)	
+3.nymicrotrading.ssbmultiservices.com */#/ 	
+4.moonlite.ssbmultiservices.com */	
+5.baacusa.ssbmultiservices.com*/#/    log file paoya gece .Vulnerability paoya gece  (https://baacusa.ssbmultiservices.com/.env)      	
+6.anchortravelsny.ssbmultiservices.com */#/	
+7.gkcit.ssbmultiservices.com */	no vulnerability
+8.bijoytechitinstitute.ssbmultiservices.com*/ 	
+9.meet.ssbmultiservices.com *	/#/   click jacking vulnerability
+10.faumainc.ssbmultiservices.com  *	
+
+New 31/12/2023 sub
+1. rubaifashion.ssbmultiservices.com 	 			
+2. jbbany.ssbmultiservices.com 	
+3. globemaxrealty.ssbmultiservices.com 	
+4. habigonjzilasamiti.ssbmultiservices.com 	
+5. globaltaxnyc.ssbmultiservices.com 	
+6. bdlawsusa.ssbmultiservices.com 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
